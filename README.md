@@ -4,4 +4,4 @@
 [Animals Detection Images Dataset](/guides/content/editing-an-existing-page)
 
 ## GDSC_Toy_CNN(VGG16) model
-[Animals-10]((https://www.kaggle.com/alessiocorrado99/animals10))
+[Animals-10](https://www.kaggle.com/alessiocorrado99/animals10)
